@@ -1,0 +1,4 @@
+Yes:33
+Work Logger:66
+Eating:26
+Finance:6
